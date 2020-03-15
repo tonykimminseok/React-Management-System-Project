@@ -1,3 +1,6 @@
+## Management System
+This project mainly focuses on learning React.js and Node.js more deeply.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
